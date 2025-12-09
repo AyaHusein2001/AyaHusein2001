@@ -15,7 +15,7 @@ I'm a passionate **Full-Stack Developer** who builds scalable backend systems an
 ### **⚙️ Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,hasura,supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,postgress,supabase" />
 </p>
 
 ### **🧠 Additional Languages**
