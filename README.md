@@ -60,11 +60,3 @@ I love crafting beautiful UI, architecting efficient backend systems, and writin
 # 🌐 **Connect With Me**
 
 👉 **Email:** *aya.ahmed2001.aa@gmail.com*
-
----
-
-# 🐍
-
-```md
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-```
