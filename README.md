@@ -1,59 +1,72 @@
-🌟 Hi, I'm Aya — Full-Stack Developer
+# ✨ **Hi, I'm Aya — Full-Stack Developer**
 
-I'm a passionate **Full-Stack Developer** who builds scalable backend systems and beautiful, performant user interfaces. I love working with modern JavaScript/TypeScript tools, optimizing developer experience, and solving real problems with clean code.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+I'm a passionate **Full-Stack Developer** who builds fast, scalable, and elegant web applications.
+I love crafting beautiful UI, architecting efficient backend systems, and writing clean code that makes life easier.
 
 ---
 
-## 🚀 Tech Stack & Tools
+# 🚀 **Tech Stack & Tools**
 
-### **🌐 Frontend**
+## 🔥 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,materialui" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,materialui" height="50"/>
 </p>
 
-### **⚙️ Backend**
+## ⚙️ **Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,postgresql,supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,postgresql,supabase" height="50"/>
 </p>
 
-### **🧠 Additional Languages**
+## 🧠 **Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp" height="50"/>
 </p>
 
-### **📦 Libraries & Tools**
+## 🧰 **Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux" height="50"/>
 </p>
 
 ---
 
-## 🛠️ What I Do
+# 💡 **What I Do**
 
-* Build end-to-end full-stack applications
-* Create responsive UIs with modern React patterns
-* Architect REST + GraphQL APIs
+* Build full-stack apps with modern, scalable architectures
+* Develop responsive UI using advanced React patterns
+* Architect REST & GraphQL APIs
 * Work with SQL & NoSQL databases
-* Integrate Hasura & Supabase into scalable systems
-* Improve performance, DX, and code quality
+* Integrate Hasura / Supabase seamlessly
+* Write clean, maintainable, production-ready code
 
 ---
 
-## 📈 Currently Learning / Improving
+# 📈 **Currently Learning**
 
 * Advanced TypeScript
 * Backend architecture patterns
-* API automation & testing
-* Cloud & DevOps basics
+* Testing & API automation
+* DevOps & Cloud fundamentals
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 **Connect With Me**
 
-* 📧 Email: aya.ahmed2001.aa@gmail.com
+👉 **Email:** *aya.ahmed2001.aa@gmail.com*
 
+---
 
+# 🐍 **GitHub Contribution Snake (Optional)**
+
+Add this if you want an animated snake eating your commits:
+
+```md
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+```
