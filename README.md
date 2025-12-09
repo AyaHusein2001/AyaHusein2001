@@ -63,9 +63,7 @@ I love crafting beautiful UI, architecting efficient backend systems, and writin
 
 ---
 
-# 🐍 **GitHub Contribution Snake (Optional)**
-
-Add this if you want an animated snake eating your commits:
+# 🐍
 
 ```md
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
