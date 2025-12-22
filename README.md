@@ -14,7 +14,7 @@ I love crafting beautiful UI, architecting efficient backend systems, and writin
 ## 🔥 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,materialui" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,materialui,reactquery" height="50"/>
 </p>
 
 ## ⚙️ **Backend**
